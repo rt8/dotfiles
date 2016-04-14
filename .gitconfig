@@ -1,0 +1,7 @@
+[user]
+  name = rt8
+  email = 
+[color]
+  ui = true
+[core]
+  editor = vim
